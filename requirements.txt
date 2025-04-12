@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-dotenv     # if using env vars
+requests          # if calling APIs
+httpx             # async API calls
+pydantic          # data validation
